@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.cover{
+   
+}
+.item-container{
+    width: 50vw;
+    margin-left: 10%;
+    height: 50%;
+    margin-top: 5%;
+}
+.item-container h1{
+    color: #6C22A6;   
+}
